@@ -3,8 +3,10 @@ layout: page
 title: Publications
 permalink: /pubs/
 ---
+<br>
 
 ## Peer-reviewed articles:
+<br> 
 
 ### 1. [Pandemics, Protests, and Publics: Demographic Activity and Engagement on Twitter in 2020.](https://doi.org/10.51685/jqd.2021.002) 
 Sarah Shugars, Adina Gitomer, Stefan McCabe, Ryan J. Gallagher, Kenneth Joseph, Nir Grinberg, Larissa Doroshenko, Brooke Foucault Welles, David Lazar. \
