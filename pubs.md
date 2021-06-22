@@ -4,6 +4,8 @@ title: Publications
 permalink: /pubs/
 ---
 
+## Peer-reviewed articles
+
 Shugars, S., Gitomer, A., McCabe, S., Gallagher, R. J., Joseph, K., Grinberg, N., Doroshenko, L., Foucault Welles, B., & Lazer, D. (2021). Pandemics, Protests, and Publics: Demographic Activity and Engagement on Twitter in 2020. _Journal of Quantitative Description: Digital Media, 1_. https://doi.org/10.51685/jqd.2021.002 \\
 
 
