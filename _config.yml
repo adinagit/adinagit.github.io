@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Adina"
-title_right   : " Gitomer" # default: ""
+title_left    : "Adina Gitomer"
+title_right   : "" # default: ""
 description   : " ¯\\_(ツ)_/¯"
 # keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://adinagit.github.io # site url
