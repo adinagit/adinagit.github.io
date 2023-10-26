@@ -18,7 +18,7 @@ _Journal of Quantitative Description: Digital Media, 1_. 2021.
 
 <br>
 
-#### 2. [Geographic impressions in Facebook political ads.](https://doi.org/10.1007/s41109-020-00350-7) 
+#### 3. [Geographic impressions in Facebook political ads.](https://doi.org/10.1007/s41109-020-00350-7) 
 **Adina Gitomer**, Pavel Oleinikov, Laura M. Baum, Erika Franklin Fowler, Saray Shai. \
 _Applied Network Science **6**, 18_. 2021. 
 
