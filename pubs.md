@@ -12,7 +12,7 @@ _Computational Communication Research, 5(1)_. 2023.
 
 <br>
 
-#### 2. [You Want a Piece of Me: Britney Spears as a Case Study on the Prominence of Hegemonic Tales and Subversive Stories in Online Media.](https://doi.org/10.5210/fm.v28i12.13314) 
+#### 2. [You want a piece of me: Britney Spears as a case study on the prominence of hegemonic tales and subversive stories in online media.](https://doi.org/10.5210/fm.v28i12.13314) 
 Alyssa Hasegawa Smith, **Adina Gitomer**, Brooke Foucault Welles. \
 _First Monday, 28(12)_. 2023.
 
